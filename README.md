@@ -76,7 +76,7 @@ python test_login.py
 - Báo cáo:
 
 |   | Kịch bản kiểm thử     | Kết quả    | Ghi chú
-|---|-----------------------|------------|----------------------------------------------------|
+|---|-----------------------|------------|-----------------------------------------------------------------------------|
 | 1 | Đăng nhập thành công  | Thành công | Chuyển hướng đến trang dashboard.html
 | 2 | Sai định dạng email   | Thành công | Hiển thị lỗi: "Email không hợp lệ"
 | 3 | Mật khẩu không hợp lệ | Thành công | Hiển thị lỗi: "Mật khẩu phải chứa ít nhất 6 ký tự"
