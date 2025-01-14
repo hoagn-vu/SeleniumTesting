@@ -71,7 +71,7 @@ python test_login.py
 ## Kết quả kiểm thử
 - Kết quả:
 
-![Kết quả kiểm thử](./frontend/assets/kqkt.png)
+![Kết quả kiểm thử](./frontend/assets/ktkq.png)
 
 - Báo cáo:
 
