@@ -11,10 +11,10 @@ Dự án này cung cấp một giao diện web đơn giản để thực hiện 
 │   │   └── login.css 
 │   ├── html/
 │   │   ├── dashboard.html 
-│   │   └── login.css 
-│   └── css/ 
-│       ├── dashboard.css 
-│       └── login.css
+│   │   └── login.html 
+│   └── js/ 
+│       ├── dashboard.js 
+│       └── login.js
 └── testing/
     ├── requirements.txt
     └── test_login.py
