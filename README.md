@@ -70,9 +70,11 @@ python test_login.py
 
 ## Kết quả kiểm thử
 - Kết quả:
+
 ![Kết quả kiểm thử](./frontend/assets/kqkt.png)
 
 - Báo cáo:
+
 |   | Kịch bản kiểm thử     | Kết quả    | Ghi chú
 |---|-----------------------|------------|----------------------------------------------------|
 | 1 | Đăng nhập thành công  | Thành công | Chuyển hướng đến trang dashboard.html
